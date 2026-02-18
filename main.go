@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-	"query/query_builder"
+	"github.com/yesetoda/query_builder/query_builder"
 )
 
 func main() {
